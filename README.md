@@ -2,7 +2,7 @@
 A sample app built with React Native, TypeScript and Redux: For integration app with backend apis.
 
 
-## Running Locally
+# Running Locally
 
 Before the steps below, create a React Native project, download the google-services.json file and replace my project's android/app/google-services.json with the file you downloaded.
 
